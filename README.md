@@ -1,2 +1,2 @@
 # complete-nodejs-course-express-mongo
-Complete NodeJS corurse with express, socket io and MongoDB
+Complete NodeJS course with express, socket io and MongoDB
